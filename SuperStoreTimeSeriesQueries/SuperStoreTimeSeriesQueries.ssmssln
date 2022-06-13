@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SuperStoreTimeSeriesQueries", "SuperStoreTimeSeriesQueries.ssmssqlproj", "{095FCCC8-2EF2-4D41-BCAE-3C2974C25D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{095FCCC8-2EF2-4D41-BCAE-3C2974C25D19}.Default|Default.ActiveCfg = Default
+		{B18B0994-3A27-49F5-9987-EAFD9C67EB9E}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30DF5C62-95BF-42D7-8F90-9682DAF0E2DD}
+	EndGlobalSection
+EndGlobal
